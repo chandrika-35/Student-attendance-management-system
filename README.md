@@ -184,7 +184,7 @@ The **Student Attendance Management System** provides a simple and efficient sol
 
 ### 👨‍💻 Author
 
-**Your Name**
+**N.Sarath Chandrika**
 
 **Mini Project – Student Attendance Management System**
 **Department of Computer Science & Engineering**
