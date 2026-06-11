@@ -86,7 +86,7 @@ Lightweight and easy to deploy using SQLite.
 This project is developed for educational and learning purposes. Feel free to modify and enhance it according to your requirements.
 
 👨‍💻 Author
-chandrika
+N.Sarath chandrika
 
 Mini Project – Student Attendance Management System
 # Student-attendance-management-system
